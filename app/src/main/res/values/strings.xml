@@ -22,7 +22,7 @@
     <string name="weather_error">Не удалось получить погоду. Проверьте интернет и повторите попытку. Последние данные сохранены.</string>
     <string name="notification_updated">Уведомление обновлено</string>
     <string name="notification_disabled">Погода обновлена. Разрешите уведомления в настройках приложения.</string>
-    <string name="brand_name">UNIT 4</string>
+    <string name="brand_name">Weather Temperature Forecast</string>
     <string name="city_title">Москва</string>
     <string name="current_label">ТЕМПЕРАТУРА ВОЗДУХА · °C</string>
     <string name="hourly_label">ПРОГНОЗ</string>
