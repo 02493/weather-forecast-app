@@ -1,0 +1,35 @@
+<resources>
+    <style name="Base.Theme.Unit4" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorOnPrimary">@color/ink</item>
+        <item name="colorSecondary">@color/ice</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/paper</item>
+        <item name="android:colorBackground">@color/ink</item>
+        <item name="android:windowBackground">@color/ink</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/ink</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="Theme.Unit4" parent="Base.Theme.Unit4" />
+    <style name="Meteo.Eyebrow" parent="">
+        <item name="android:textSize">11sp</item>
+        <item name="android:letterSpacing">0.17</item>
+        <item name="android:textColor">@color/muted</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="Meteo.Body" parent="">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/muted</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+    <style name="Meteo.ForecastValue" parent="">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/paper</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>
