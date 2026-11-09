@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-**Версия:** 1.1  
+**Версия:** 1.1 
 **Дата выпуска:** 09.11.2026  
 **Платформа:** Android  
 **Язык программирования:** Kotlin  
@@ -14,6 +14,8 @@ Weather Forecast App — это лёгкое Android-приложение, ра�
 Приложение получает погодные данные через Open-Meteo API с использованием Ktor Client и отображает информацию о температуре в простом и удобном интерфейсе.
 
 Также приложение поддерживает автоматическое обновление погоды в фоновом режиме, виджеты рабочего стола, локальное кэширование данных и погодные уведомления.
+
+![Weather Forecast App Preview](screenshots/weather-forecast-preview.png)
 
 ---
 
@@ -45,8 +47,6 @@ Weather Forecast App — это лёгкое Android-приложение, ра�
 | Widgets                 | Android App Widgets                                              |
 | Weather API             | [Open-Meteo API](https://open-meteo.com/?utm_source=chatgpt.com) |
 | Build System            | Gradle (Kotlin DSL)                                              |
-
-Так README будет выглядеть профессиональнее и соответствовать привычному оформлению технических репозиториев.
 
 ---
 
