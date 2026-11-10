@@ -70,6 +70,13 @@ git clone https://github.com/02493/weather-forecast-app.git
 2. Выберите конфигурацию `app`.
 3. Нажмите **Run** для сборки и установки приложения.
 
+### Скачать приложение
+
+Вы можете скачать актуальную версию Android-приложения (`.apk`) прямо из репозитория:
+<a href="https://github.com/02493/weather-forecast-app/raw/main/release/wether.apk">
+  <img src="https://img.shields.io/badge/Скачать_APK-Android-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
+</a>
+
 ---
 
 ## Планы по развитию
@@ -82,6 +89,7 @@ git clone https://github.com/02493/weather-forecast-app.git
 - Оптимизировать фоновое обновление данных и систему уведомлений.
 
 ---
+
 
 ## Другие работы
 
